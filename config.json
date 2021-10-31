@@ -1,6 +1,6 @@
 {
 	"ip":"devanhduy.aternos.me",
 	"port": "25565",
-	"name": "Afk-Bot",
+	"name": "afk_bot",
 	"auto-night-skip":"false"
 }
